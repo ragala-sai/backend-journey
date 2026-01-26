@@ -83,3 +83,15 @@ git push
 
 
 
+\## Day 4 – Java Commands Used
+
+
+
+javac Student.java
+
+java Student
+
+
+
+
+
