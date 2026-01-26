@@ -17,6 +17,7 @@ Day 1:
 \- Installed Git
 
 \- First GitHub commit
+
 ## Day 1 – Commands Used
 
 
@@ -64,6 +65,19 @@ git config --global --list
 \### Commit Fix
 
 git commit --amend --reset-author
+
+git push
+
+
+## Day 3 – Git Commands Used
+
+
+
+git status
+
+git add .
+
+git commit -m "Day 3: added dummy Java project"
 
 git push
 
