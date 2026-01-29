@@ -115,3 +115,44 @@ java Student
 
 \- core-java/Day5Methods.java
 
+
+\## Day 6 – Constructors \& Method Overloading
+
+
+
+\### Topics Covered
+
+\- Constructor basics
+
+\- Default constructor
+
+\- Parameterized constructor
+
+\- Constructor rules
+
+\- Constructor overloading
+
+\- Method overloading
+
+
+
+\### Key Learnings
+
+\- Constructor has the same name as the class
+
+\- Constructor has no return type
+
+\- Constructor is called automatically when object is created
+
+\- Constructors can be overloaded
+
+\- Method overloading depends on method parameters, not return type
+
+
+
+\### Practice File
+
+\- core-java/Day6Constructors.java
+
+
+
