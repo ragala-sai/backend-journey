@@ -69,6 +69,7 @@ git commit --amend --reset-author
 git push
 
 
+
 ## Day 3 – Git Commands Used
 
 
@@ -92,6 +93,25 @@ javac Student.java
 java Student
 
 
+\## Day 5 – Core Java (Methods \& Static)
 
 
+
+\### Topics Covered
+
+\- Methods
+
+\- Parameters
+
+\- Return types
+
+\- static keyword
+
+\- Why main() is static
+
+
+
+\### Practice File
+
+\- core-java/Day5Methods.java
 
