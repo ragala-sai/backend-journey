@@ -93,6 +93,7 @@ javac Student.java
 java Student
 
 
+
 \## Day 5 – Core Java (Methods \& Static)
 
 
@@ -114,6 +115,7 @@ java Student
 \### Practice File
 
 \- core-java/Day5Methods.java
+
 
 
 \## Day 6 – Constructors \& Method Overloading
@@ -153,6 +155,48 @@ java Student
 \### Practice File
 
 \- core-java/Day6Constructors.java
+
+## Day 7 – Inheritance, Method Overriding \& Polymorphism (Core Java)
+
+
+
+\### Topics Covered
+
+\- Inheritance in Java
+
+\- Method Overriding
+
+\- `super` keyword
+
+\- Runtime Polymorphism
+
+\- Parent reference holding Child object
+
+
+
+\### Key Concepts Learned
+
+
+
+\- Java does \*\*not support multiple inheritance\*\* using classes to avoid ambiguity.
+
+\- \*\*Method Overriding\*\* allows a child class to provide its own implementation of a parent method.
+
+\- Method call is decided at \*\*runtime\*\* based on the object type.
+
+\- `super` keyword is used to access parent class methods and variables.
+
+\- Using `super.methodName()` allows executing \*\*both parent and child logic\*\*.
+
+
+
+\### Example
+
+```java
+
+Parent obj = new Child();
+
+obj.show(); // Calls Child's show() at runtime
 
 
 
