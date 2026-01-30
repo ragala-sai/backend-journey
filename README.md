@@ -198,5 +198,21 @@ Parent obj = new Child();
 
 obj.show(); // Calls Child's show() at runtime
 
+## Day 8 – Abstraction & Interfaces
+
+### Topics Learned
+- Abstraction in Java
+- Abstract classes
+- Interfaces
+- Runtime Polymorphism
+- instanceof keyword
+
+### Key Points
+- Abstract classes cannot be instantiated
+- Interfaces support multiple inheritance
+- Runtime polymorphism uses method overriding
+- instanceof checks object type at runtime
+
+
 
 
