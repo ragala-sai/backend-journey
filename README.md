@@ -213,6 +213,49 @@ obj.show(); // Calls Child's show() at runtime
 - Runtime polymorphism uses method overriding
 - instanceof checks object type at runtime
 
+## Day 9 – Exception Handling
+
+### Topics Learned
+- What is exception
+- Types of errors
+- try-catch-finally
+- Multiple catch blocks
+- throw vs throws
+
+### Key Points
+- try contains risky code
+- catch handles exception
+- finally always executes
+- throw is used to create exception manually
+- throws declares exception to caller
+
+## Day 10 – Collections (List & Map)
+
+### Topics Learned
+- Java Collections Framework
+- List (ArrayList)
+- Map (HashMap)
+
+### Key Points
+- List allows duplicates and maintains order
+- Map stores key–value pairs
+- HashMap keys are unique
+
+## Day 11 – Streams & Lambda
+
+### Topics Learned
+- Lambda expressions
+- Java Streams
+- filter, map, forEach
+
+### Key Points
+- Lambda reduces boilerplate code
+- Streams work on collections
+- Streams do not modify original data
+
+
+
+
 
 
 
