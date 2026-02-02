@@ -297,10 +297,19 @@ Enhanced console-based student management system using Core Java.
 - Invalid foreign key insertion results in an error.
 - Used heavily in real-world databases and Spring Boot applications.
 
+## Day 15 – SQL JOINs
 
+### Topics Covered
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- FULL JOIN (using UNION)
 
-
-
+### Key Learning
+- JOINs combine data from multiple tables.
+- INNER JOIN returns only matching records.
+- LEFT JOIN keeps all left table rows.
+- FULL JOIN is not directly supported in MySQL.
 
 
 
