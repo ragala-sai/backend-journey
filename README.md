@@ -254,6 +254,22 @@ obj.show(); // Calls Child's show() at runtime
 - Streams do not modify original data
 
 
+## Day 12 – Mini Project (Advanced Student Management)
+
+### Project Description
+Enhanced console-based student management system using Core Java.
+
+### Features
+- Add, view, search, delete students
+- Stream-based search
+- Exception handling for user input
+
+### Concepts Used
+- ArrayList
+- Streams & Optional
+- Lambda expressions
+- Exception handling
+
 
 
 
