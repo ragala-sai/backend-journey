@@ -311,5 +311,18 @@ Enhanced console-based student management system using Core Java.
 - LEFT JOIN keeps all left table rows.
 - FULL JOIN is not directly supported in MySQL.
 
+## Day 16 – HTML Basics
+
+### Topics Covered
+- HTML structure
+- Head and Body tags
+- Input elements
+
+### Key Learning
+- HTML defines structure of web pages.
+- Input elements collect user data.
+- HTML runs directly in the browser.
+
+
 
 
