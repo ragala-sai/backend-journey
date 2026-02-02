@@ -276,6 +276,28 @@ Enhanced console-based student management system using Core Java.
 - Used DELETE to remove records
 - Learned importance of WHERE clause
 
+## Day 14 – Primary Key & Foreign Key (SQL)
+
+### Topics Covered
+- Primary Key
+- Foreign Key
+- Table relationships
+- Referential integrity
+
+### Concepts
+- **Primary Key** uniquely identifies a row and cannot be NULL or duplicate.
+- **Foreign Key** creates a relationship between two tables and enforces valid data.
+
+### Tables Practiced
+- `departments` (Primary Key: department_id)
+- `employees` (Foreign Key: department_id → departments.department_id)
+
+### Key Learning
+- Parent table data must exist before inserting into child table.
+- Invalid foreign key insertion results in an error.
+- Used heavily in real-world databases and Spring Boot applications.
+
+
 
 
 
