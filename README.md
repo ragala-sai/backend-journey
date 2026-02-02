@@ -270,6 +270,13 @@ Enhanced console-based student management system using Core Java.
 - Lambda expressions
 - Exception handling
 
+## Day 13 – SQL UPDATE & DELETE
+
+- Used UPDATE to modify records
+- Used DELETE to remove records
+- Learned importance of WHERE clause
+
+
 
 
 
