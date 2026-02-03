@@ -323,6 +323,20 @@ Enhanced console-based student management system using Core Java.
 - Input elements collect user data.
 - HTML runs directly in the browser.
 
+## Day 17 – HTML Forms
+
+### Topics Covered
+- Form tag
+- GET vs POST
+- Input names
+- Buttons
+
+### Key Learning
+- Forms send data to backend.
+- POST is preferred for sensitive data.
+- name attribute is mandatory.
+
+
 
 
 
