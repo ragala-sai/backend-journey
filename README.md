@@ -336,6 +336,18 @@ Enhanced console-based student management system using Core Java.
 - POST is preferred for sensitive data.
 - name attribute is mandatory.
 
+## Day 18 – HTML Tables & Form Flow
+
+### Topics Covered
+- HTML tables
+- Table rows and headers
+- Form submission flow
+
+### Key Learning
+- Tables display data.
+- Forms send data to backend.
+- HTML connects frontend to Spring Boot.
+
 
 
 
