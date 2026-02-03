@@ -348,6 +348,19 @@ Enhanced console-based student management system using Core Java.
 - Forms send data to backend.
 - HTML connects frontend to Spring Boot.
 
+## Day 19 – Introduction to Spring Boot
+
+### Topics Covered
+- What is Spring Boot
+- Problems with traditional Spring
+- Auto configuration
+- Embedded server
+
+### Key Learning
+- Spring Boot simplifies backend development.
+- It eliminates XML and manual configuration.
+- Embedded Tomcat removes server setup.
+
 
 
 
