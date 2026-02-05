@@ -402,6 +402,24 @@ spring.autoconfigure.exclude=org.springframework.boot.autoconfigure.jdbc.DataSou
 - application.properties role
 - Auto-configuration concept
 
+## Day 21 – First REST API
+
+Created first REST controller using:
+- @RestController
+- @GetMapping
+
+APIs Created:
+GET /hello
+GET /greet
+
+Tested using browser:
+http://localhost:8080/hello
+
+Concepts:
+- REST API basics
+- Controller layer
+- HTTP GET mapping
+
 
 
 
