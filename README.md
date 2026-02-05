@@ -361,6 +361,48 @@ Enhanced console-based student management system using Core Java.
 - It eliminates XML and manual configuration.
 - Embedded Tomcat removes server setup.
 
+## Day 20 – Spring Boot Project Setup
+
+### Spring Boot Project Creation
+- Created Spring Boot project using IntelliJ IDEA
+- Used Spring Initializr (start.spring.io)
+- Selected:
+  - Java
+  - Maven
+  - Spring Boot 3.5.x
+  - Packaging: Jar
+  - Java version: 17
+
+### Project Details Used
+Group: com.sai  
+Artifact: studentapi  
+Name: student-api  
+Package: com.sai.studentapi
+
+### Dependencies Added
+- Spring Web
+- Spring Data JPA
+- Spring Boot DevTools
+
+### First Run
+Ran StudentApiApplication.java  
+Embedded Tomcat server started on port 8080
+
+### Temporary Fix Applied
+Disabled datasource auto configuration (DB not configured yet):
+
+application.properties:
+spring.autoconfigure.exclude=org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration
+
+### Concepts Learned
+- What is Spring Boot
+- Spring Initializr
+- Maven project structure
+- Embedded Tomcat
+- application.properties role
+- Auto-configuration concept
+
+
 
 
 
