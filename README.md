@@ -420,6 +420,19 @@ Concepts:
 - Controller layer
 - HTTP GET mapping
 
+## Day 22 – POST API
+
+Topics:
+- @PostMapping
+- @RequestBody
+- JSON request handling
+
+API:
+POST /student
+
+Learned how JSON maps to Java object.
+
+
 
 
 
